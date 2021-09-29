@@ -19,6 +19,10 @@
 6) [Sticker Tools Bot](https://github.com/StarkBotsIndustries/StickerToolsBot) - Sticker Conversion Tools
 7) [OCR [Image to Text] Bot](https://github.com/StarkBotsIndustries/OCRBot) - Text extraction from Images
 8) [Telegraph Bot](https://github.com/StarkBotsIndustries/TelegraphBot) - Telegraph Media Uploader
+9) [Channel Automation Bot](https://github.com/StarkBotsIndustries/ChannelBot) - Telegram Channel Automation Tool
+10) [String Session Bot](https://github.com/StarkBotsIndustries/StringSessionBot) - Pyrogram String Session Generator
+11) Instagram Downloader Bot - Private (for now)
+12) [PDF Tools Bot](https://github.com/StarkBotsIndustries/PDFBot) - PDF Tools
 
 
 ### Telegram Bot Links
@@ -31,6 +35,10 @@
 6) [@Sticker_Tools_Bot](https://t.me/Sticker_Tools_Bot)
 7) [@Image_To_Text_OCR_Bot](https://t.me/Image_To_Text_OCR_Bot)
 8) [@StarkTelegraphBot](https://t.me/StarkTelegraphBot)
+9) [@ChannelAutomateBot](https://t.me/ChannelAutomateBot)
+10) [@StarkStringGenBot](https://t.me/StarkStringGenBot)
+11) [@InstaloaderStarkBot](https://t.me/InstaloaderStarkBot)
+12) [@PDFStarkBot](https://t.me/PDFStarkBot)
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/StarkBots)

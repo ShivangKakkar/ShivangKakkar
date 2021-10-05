@@ -6,7 +6,7 @@
 - 📫 How to reach me: [@StarkProgrammer](https://t.me/StarkProgrammer)
 - ⚡ Fun fact: Life Sucks
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=StarkBotsIndustries&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=starkbotsindustries&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 ### Telegram Bot Repositories
@@ -20,10 +20,13 @@
 7) [OCR [Image to Text] Bot](https://github.com/StarkBotsIndustries/OCRBot) - Text extraction from Images
 8) [Telegraph Bot](https://github.com/StarkBotsIndustries/TelegraphBot) - Telegraph Media Uploader
 9) [Channel Automation Bot](https://github.com/StarkBotsIndustries/ChannelBot) - Telegram Channel Automation Tool
-10) [String Session Bot](https://github.com/StarkBotsIndustries/StringSessionBot) - Pyrogram String Session Generator
+10) [String Session Bot](https://github.com/StarkBotsIndustries/StringSessionBot) - Pyrogram and Telethon String Session Generator
 11) Instagram Downloader Bot - Private (for now)
 12) [PDF Tools Bot](https://github.com/StarkBotsIndustries/PDFBot) - PDF Tools
-
+13) [Force Subscribe Bot](https://github.com/StarkBotsIndustries/ForceSubscribeBot) - Force users to join a particular chat
+14) [Delete Events Bot](https://github.com/StarkBotsIndustries/DeleteEventsBot) - Delete Telegram Service Messages
+15) [ID Bot](https://github.com/StarkBotsIndustries/ID-Bot) - Get ID of groups, channels, users, bots and stickers
+16) [Time Bot](https://github.com/StarkBotsIndustries/TimeBot) - Show time of all timezones with other features
 
 ### Telegram Bot Links
 
@@ -39,6 +42,10 @@
 10) [@StarkStringGenBot](https://t.me/StarkStringGenBot)
 11) [@InstaloaderStarkBot](https://t.me/InstaloaderStarkBot)
 12) [@PDFStarkBot](https://t.me/PDFStarkBot)
+13) [@ForceSubscribingBot](https://t.me/ForceSubscribingBot)
+14) [@DeleteServiceMessagesBot](https://t.me/DeleteServiceMessagesBot)
+15) [@TheIdentityBot](https://t.me/TheIdentityBot)
+16) [@TimeTellerBot](https://t.me/TimeTellerBot)
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/StarkBots)

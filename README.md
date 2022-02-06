@@ -5,7 +5,7 @@
 - 💬 Ask me about anything
 - ⭐ I create open source telegram bots on [@StarkBots](https://t.me/StarkBots)
 - 📫 How to reach me: [@StarkProgrammer](https://t.me/StarkProgrammer)
-- ⚡ Fun fact: Life Sucks
+- ⚡ Fun Fact: Stark is inspired from Stark family of Game of Thrones (which has nothing to do with technology) instead of Tony Stark
 - 🧑‍💻 Thanks for following me
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=starkbotsindustries&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

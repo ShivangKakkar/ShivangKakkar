@@ -1,27 +1,30 @@
 ### Hi there, I'm a Human 👋
 
 - 🔭 I’m currently working on life
-- 🌱 I’m currently learning Go and CSS
+- 🌱 I’m currently learning JavaSript and CSS
 - 💬 Ask me about anything
 - ⭐ I create open source telegram bots on [@StarkBots](https://t.me/StarkBots)
 - 📫 How to reach me: [@StarkProgrammer](https://t.me/StarkProgrammer)
 - ⚡ Fun Fact: Stark is inspired from Stark family of Game of Thrones (which has nothing to do with technology) instead of Tony Stark
 - 🧑‍💻 Hey, Thanks for following me
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=starkbotsindustries&show_icons=true&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=starkbotsindustries&show_icons=true&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)
+ -->
 
 ### Technologies
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust]([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white))
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-26a699?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkBotsIndustries&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/StarkBotsIndustries)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkBotsIndustries&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/StarkBotsIndustries)
+ -->
 
 ### Tools
 
@@ -44,7 +47,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![PyPI](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)
 -->
 
 ### Check out [Telegram Bots List](https://github.com/StarkBotsIndustries/BotList)

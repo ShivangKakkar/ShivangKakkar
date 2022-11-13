@@ -1,10 +1,10 @@
-### Hi there, I'm a Human 👋
+### Hi there, I'm Shivang 👋
 
 - 🔭 I’m currently working on life
-- 🌱 I’m currently learning JavaSript and CSS
-- 💬 Ask me about anything
+- 🌱 I’m currently learning JavaSript and DSA (in C++)
+- 💬 Ask me about anything on telegram.
 - ⭐ I create open source telegram bots on [@StarkBots](https://t.me/StarkBots)
-- 📫 How to reach me: [@StarkProgrammer](https://t.me/StarkProgrammer)
+- 📫 How to reach me: [@StarkProgrammer](https://t.me/StarkAgent)
 - ⚡ Fun Fact: Stark is inspired from Stark family of Game of Thrones (which has nothing to do with technology) instead of Tony Stark
 - 🧑‍💻 Hey, Thanks for following me
 

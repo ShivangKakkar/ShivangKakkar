@@ -4,12 +4,11 @@
 - 🌱 I’m currently learning JavaSript and DSA (in C++)
 - 💬 Ask me about anything on telegram.
 - ⭐ I create open source telegram bots on [@StarkBots](https://t.me/StarkBots)
-- 📫 How to reach me: [@StarkProgrammer](https://t.me/StarkAgent)
-- ⚡ Fun Fact: Stark is inspired from Stark family of Game of Thrones (which has nothing to do with technology) instead of Tony Stark
-- 🧑‍💻 Hey, Thanks for following me
+- 📫 How to reach me: [Telegram](https://t.me/ShivangKakkar88) or [Instagram](https://www.instagram.com/shivangkakkar88/)
+- 🧑‍💻 Hey, Thanks for following me... if you are.
 
 <!-- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=starkbotsindustries&show_icons=true&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ShivangKakkar&show_icons=true&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000)
  -->
 
 ### Technologies
@@ -24,9 +23,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!--
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkBotsIndustries&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/StarkBotsIndustries)
- -->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangKakkar&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/ShivangKakkar)
+
 
 ### Tools
 
@@ -51,7 +50,7 @@
 
 -->
 
-### Check out [Telegram Bots List](https://github.com/StarkBotsIndustries/BotList)
+### Check out [Telegram Bots List](https://github.com/ShivangKakkar/BotList)
 
 [//]: # ([![Telegram]&#40;https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram&#41;]&#40;https://t.me/StarkBots&#41;)
 
@@ -59,6 +58,6 @@
 
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/StarkBotsChat)
 
-[![GitHub followers](https://img.shields.io/github/followers/StarkBotsIndustries.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/StarkBotsIndustries?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ShivangKakkar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ShivangKakkar?tab=followers)
 
 ![Profile views](https://gpvc.arturio.dev/StarkBotsIndustries)

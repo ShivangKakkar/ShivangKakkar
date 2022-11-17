@@ -24,8 +24,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangKakkar&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/ShivangKakkar)
-
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangKakkar&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&layout=compact)](https://github.com/ShivangKakkar)
+ -->
 
 ### Tools
 

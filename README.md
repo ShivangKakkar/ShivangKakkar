@@ -1,9 +1,9 @@
 ### Hi there, I'm Shivang 👋
 
 - 🔭 I’m currently working on life
-- 🌱 I’m currently learning Web Development and DSA (in C++)
+- 🌱 I’m currently learning DSA (kind of)
 - 💬 Ask me about anything.
-- ⭐ I create open source telegram bots on [@StarkBots](https://t.me/StarkBots)
+- ⭐ I used to create open source telegram bots on [@StarkBots](https://t.me/StarkBots)
 - 📫 How to reach me: [Telegram](https://t.me/ShivangKakkar88) or [Instagram](https://www.instagram.com/shivangkakkar88/)
 - 🧑‍💻 Hey, Thanks for following me... if you are.
 
